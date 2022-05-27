@@ -2,25 +2,32 @@
 
 > I craft responsive web design with UI/UX in mind. Here are my crafts:
 
-## Scroll Btween <sup>JS</sup>
+## Scroll Btween
+<sup>Javascript*</sup>
+
 ScrollBtween uses scroll position of document - or any DOM element - to tween CSS values on any DOM element. 
 
 [Website](https://olivier3lanc.github.io/Scroll-Btween/) | [Github](https://github.com/olivier3lanc/Scroll-Btween)
 [![Scroll Btween](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170226227-fc076335-b9a7-43f8-8136-7c8544d70711.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/Scroll-Btween/)
 
-## Scroll Frames <sup>JS</sup>
+## Scroll Frames
+<sup>Javascript</sup>
+
 Animate sequences of still frames on any DOM element in relation with its position into the viewport.
 
 [Website](https://olivier3lanc.github.io/Scroll-Frames/) | [Github](https://github.com/olivier3lanc/Scroll-Frames)
 [![Scroll Frames](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170229989-a67bc0e5-092d-48e9-84f4-43ec531972b1.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/Scroll-Frames/)
 
-## Jekyll LibDoc <sup>HTML + Liquid + CSS + JS</sup>
+## Jekyll LibDoc
+<sup>Jekyll Theme | Liquid | HTML | CSS | Javascript</sup>
+
 A Jekyll documentation theme with built-in search and playground.
 
 [Website](https://olivier3lanc.github.io/Jekyll-LibDoc/) | [Github](https://github.com/olivier3lanc/Jekyll-LibDoc)
 [![Jekyll LibDoc](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170112297-d7351670-a1a8-4f96-a2a1-2ebf84f62b53.png&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/Jekyll-LibDoc/)
 
-## La Casa de Papel HTML5 cinematics <sup>HTML + CSS + JS</sup>
+## La Casa de Papel HTML5 cinematics
+<sup>HTML | CSS | Javascript</sup>
 
 Web cinematics inspired from [La Casa de Papel](https://www.antena3.com/series/casa-de-papel/) serie (Money Heist) start credits. Showcase for Scroll Btween and Scroll Frames.
 
@@ -33,7 +40,8 @@ Web cinematics inspired from [La Casa de Papel](https://www.antena3.com/series/c
 [![folio-tokyo-and-rio](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170699532-bce95cfc-2eb4-43da-ab73-9c94bbd746f3.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/folio-casa-de-papel/tokyorio.html)
 
 
-## D A R K HTML5 cinematics <sup>HTML + CSS + JS</sup>
+## D A R K HTML5 cinematics
+<sup>HTML | CSS | Javascript</sup>
 
 Web cinematics inspired from [D A R K](https://www.netflix.com/fr/title/80100172) serie opening credits. Showcase for Scroll Btween and Scroll Frames.
 
@@ -42,7 +50,8 @@ Web cinematics inspired from [D A R K](https://www.netflix.com/fr/title/80100172
 [![D A R K](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170698988-1c19c43f-dbc9-4dad-b11f-fa048738b255.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/folio-dark/)
 
 
-## Paris 26 Gigapixels <sup>HTML + PHP + CSS + JS</sup>
+## Paris 26 Gigapixels v2.0
+<sup>PHP | HTML | CSS | Javascript</sup>
 
 Unreleased GoPro initiative, a responsive interface of the project Paris 26 Gigapixels
 
@@ -51,7 +60,8 @@ Unreleased GoPro initiative, a responsive interface of the project Paris 26 Giga
 [![Paris 26 Gigapixels v2.0 - Unreleased](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170274449-4c872b35-f023-4eba-a2f4-04e9a6b98c89.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/p26g-interface/)
 
 
-## GoPro VR <sup>HTML + CSS + JS</sup>
+## GoPro VR
+<sup>HTML | CSS | Javascript</sup>
 
 GoPro VR HTML5 prototypes pages for production (discontinued).
 
@@ -72,13 +82,36 @@ List of pages:
 * [404](https://olivier3lanc.github.io/folio-gopro-vr/404.html)
 * [Error](https://olivier3lanc.github.io/folio-gopro-vr/error.html)
 
-## ForgeJS website <sup>HTML + PHP + CSS + JS</sup>
+## ForgeJS website
+<sup>PHP | HTML | CSS | Javascript</sup>
 
 Creation and design with HTML, CSS, Javascript + GRAV CMS template creation. ForgeJS is a powerful open-source framework that brings immersive media-driven experiences to life.
 
 [Launch](https://forgejs.org/)
 
 [![ForgeJS website](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170703848-8ec26e05-d9c1-485b-9a34-e581946e4f70.jpg&output=webp&q=30&w=896&dpr=2)](https://forgejs.org/)
+
+## Panotour Pro 3 mockups
+
+Hi-fi mockups of the unreleased Kolor|GoPro Panotour 3 virtual tour creation software.
+
+[Github](https://github.com/olivier3lanc/folio-panotour-3-interface)
+
+[![Panotour Pro 3 mockups](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170279318-45749afe-63ea-4203-acea-ef8ac559f720.png&output=webp&q=30&w=1012&dpr=2)](https://github.com/olivier3lanc/folio-panotour-3-interface)
+
+## Graphics
+
+Portfolio of various graphic design crafted in relation with the web and the print.
+
+[View all](https://github.com/olivier3lanc/folio-graphics)
+
+| Logo design example 1 | Logo design example 2 |
+| --- | --- |
+| [![APG](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170689012-790c486d-4335-4245-845e-6b58be31acde.png&output=webp&q=30&w=500&dpr=2)](https://github.com/olivier3lanc/folio-graphics#kolor-products-logos) | [![APG-rev1](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f.png&output=webp&q=30&w=500&dpr=2)](https://github.com/olivier3lanc/folio-graphics#kolor-products-logos) |
+
+| Movie booklets design 1 | Movie booklets design 2 |
+| --- | --- |
+| [![jaquette-gypaetes](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307.jpg&output=webp&q=30&w=500&dpr=2)](https://github.com/olivier3lanc/folio-graphics#booklets-for-bd-dvd-movie) | [![jaquette-dvd-alexandre-deschaumes](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc.png&output=webp&q=30&w=500&dpr=2)](https://github.com/olivier3lanc/folio-graphics#booklets-for-bd-dvd-movie) |
 
 <!--
 **olivier3lanc/olivier3lanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
