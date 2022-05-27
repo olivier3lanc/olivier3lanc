@@ -91,14 +91,6 @@ Creation and design with HTML, CSS, Javascript + GRAV CMS template creation. For
 
 [![ForgeJS website](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170703848-8ec26e05-d9c1-485b-9a34-e581946e4f70.jpg&output=webp&q=30&w=896&dpr=2)](https://forgejs.org/)
 
-## Panotour Pro 3 mockups
-<sup>Photoshop</sup>
-
-Hi-fi mockups of the unreleased Kolor|GoPro Panotour 3 virtual tour creation software.
-
-[View all](https://github.com/olivier3lanc/folio-panotour-3-interface)
-
-[![Panotour Pro 3 mockups](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170279318-45749afe-63ea-4203-acea-ef8ac559f720.png&output=webp&q=30&w=830&dpr=2)](https://github.com/olivier3lanc/folio-panotour-3-interface)
 
 ## Bubbles template for Panotour Pro
 <sup>HTML | CSS | Javascript</sup>
@@ -108,6 +100,26 @@ Kolor | GoPro Panotour Pro 2.0 template.
 [Launch](https://olivier3lanc.github.io/folio-bubbles/) | [Github](https://github.com/olivier3lanc/folio-bubbles)
 
 [![folio-bubbles](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170713326-68cfaa5f-d7e9-48e3-a0c0-232eba0bde90.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/folio-bubbles/)
+
+
+## Sidr template for Panotour Pro
+<sup>HTML | CSS | Javascript</sup>
+
+Kolor | GoPro Panotour Pro 2.0 template.
+
+[Launch](https://olivier3lanc.github.io/folio-sidr/) | [Github](https://github.com/olivier3lanc/folio-sidr)
+
+[![folio-sidr](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170715827-76383274-9ff5-41c0-b27a-3c43df7df4b6.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/folio-sidr/)
+
+
+## Panotour Pro 3 mockups
+<sup>Photoshop</sup>
+
+Hi-fi mockups of the unreleased Kolor|GoPro Panotour 3 virtual tour creation software.
+
+[View all](https://github.com/olivier3lanc/folio-panotour-3-interface)
+
+[![Panotour Pro 3 mockups](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170279318-45749afe-63ea-4203-acea-ef8ac559f720.png&output=webp&q=30&w=830&dpr=2)](https://github.com/olivier3lanc/folio-panotour-3-interface)
 
 
 ## Graphics
