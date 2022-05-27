@@ -8,7 +8,7 @@
 ScrollBtween uses scroll position of document - or any DOM element - to tween CSS values on any DOM element. 
 
 [Website](https://olivier3lanc.github.io/Scroll-Btween/) | [Github](https://github.com/olivier3lanc/Scroll-Btween)
-[![Scroll Btween](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170226227-fc076335-b9a7-43f8-8136-7c8544d70711.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/Scroll-Btween/)
+[![Scroll Btween](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170226227-fc076335-b9a7-43f8-8136-7c8544d70711.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/Scroll-Btween/)
 
 ## Scroll Frames
 <sup>Javascript</sup>
@@ -16,7 +16,7 @@ ScrollBtween uses scroll position of document - or any DOM element - to tween CS
 Animate sequences of still frames on any DOM element in relation with its position into the viewport.
 
 [Website](https://olivier3lanc.github.io/Scroll-Frames/) | [Github](https://github.com/olivier3lanc/Scroll-Frames)
-[![Scroll Frames](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170229989-a67bc0e5-092d-48e9-84f4-43ec531972b1.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/Scroll-Frames/)
+[![Scroll Frames](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170229989-a67bc0e5-092d-48e9-84f4-43ec531972b1.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/Scroll-Frames/)
 
 ## Jekyll LibDoc
 <sup>Jekyll Theme | Liquid | HTML | CSS | Javascript</sup>
@@ -24,7 +24,7 @@ Animate sequences of still frames on any DOM element in relation with its positi
 A Jekyll documentation theme with built-in search and playground.
 
 [Website](https://olivier3lanc.github.io/Jekyll-LibDoc/) | [Github](https://github.com/olivier3lanc/Jekyll-LibDoc)
-[![Jekyll LibDoc](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170112297-d7351670-a1a8-4f96-a2a1-2ebf84f62b53.png&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/Jekyll-LibDoc/)
+[![Jekyll LibDoc](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170112297-d7351670-a1a8-4f96-a2a1-2ebf84f62b53.png&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/Jekyll-LibDoc/)
 
 ## La Casa de Papel HTML5 cinematics
 <sup>HTML | CSS | Javascript</sup>
@@ -33,11 +33,11 @@ Web cinematics inspired from [La Casa de Papel](https://www.antena3.com/series/c
 
 [Launch](https://olivier3lanc.github.io/folio-casa-de-papel) | [Github](https://github.com/olivier3lanc/folio-casa-de-papel)
 
-[![La Casa de Papel](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170236682-e05d2d36-691f-4d6a-a3f7-54d76b01dbc2.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/folio-casa-de-papel)
+[![La Casa de Papel](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170236682-e05d2d36-691f-4d6a-a3f7-54d76b01dbc2.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/folio-casa-de-papel)
 
 [Bonus Tokyo and Rio](https://olivier3lanc.github.io/folio-casa-de-papel/tokyorio.html)
 
-[![folio-tokyo-and-rio](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170699532-bce95cfc-2eb4-43da-ab73-9c94bbd746f3.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/folio-casa-de-papel/tokyorio.html)
+[![folio-tokyo-and-rio](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170699532-bce95cfc-2eb4-43da-ab73-9c94bbd746f3.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/folio-casa-de-papel/tokyorio.html)
 
 
 ## D A R K HTML5 cinematics
@@ -47,7 +47,7 @@ Web cinematics inspired from [D A R K](https://www.netflix.com/fr/title/80100172
 
 [Launch](https://olivier3lanc.github.io/folio-dark/) | [Github](https://github.com/olivier3lanc/folio-dark)
 
-[![D A R K](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170698988-1c19c43f-dbc9-4dad-b11f-fa048738b255.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/folio-dark/)
+[![D A R K](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170698988-1c19c43f-dbc9-4dad-b11f-fa048738b255.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/folio-dark/)
 
 
 ## Paris 26 Gigapixels v2.0
@@ -57,7 +57,7 @@ Unreleased GoPro initiative, a responsive interface of the project Paris 26 Giga
 
 [Launch](https://olivier3lanc.github.io/p26g-interface/) | [Github](https://github.com/olivier3lanc/p26g-interface)
 
-[![Paris 26 Gigapixels v2.0 - Unreleased](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170274449-4c872b35-f023-4eba-a2f4-04e9a6b98c89.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/p26g-interface/)
+[![Paris 26 Gigapixels v2.0 - Unreleased](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170274449-4c872b35-f023-4eba-a2f4-04e9a6b98c89.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/p26g-interface/)
 
 
 ## GoPro VR
@@ -98,7 +98,7 @@ Hi-fi mockups of the unreleased Kolor|GoPro Panotour 3 virtual tour creation sof
 
 [View all](https://github.com/olivier3lanc/folio-panotour-3-interface)
 
-[![Panotour Pro 3 mockups](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170279318-45749afe-63ea-4203-acea-ef8ac559f720.png&output=webp&q=30&w=1012&dpr=2)](https://github.com/olivier3lanc/folio-panotour-3-interface)
+[![Panotour Pro 3 mockups](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170279318-45749afe-63ea-4203-acea-ef8ac559f720.png&output=webp&q=30&w=830&dpr=2)](https://github.com/olivier3lanc/folio-panotour-3-interface)
 
 ## Bubbles template for Panotour Pro
 <sup>HTML | CSS | Javascript</sup>
