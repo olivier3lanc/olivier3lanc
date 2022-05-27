@@ -51,6 +51,28 @@ Unreleased GoPro initiative, a responsive interface of the project Paris 26 Giga
 [![Paris 26 Gigapixels v2.0 - Unreleased](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170274449-4c872b35-f023-4eba-a2f4-04e9a6b98c89.jpg&output=webp&q=30&w=1012&dpr=2)](https://olivier3lanc.github.io/p26g-interface/)
 
 
+#### GoPro VR
+
+GoPro VR HTML5 prototypes pages for production (discontinued).
+
+[Launch](https://olivier3lanc.github.io/folio-gopro-vr) | [Github](https://github.com/olivier3lanc/folio-gopro-vr)
+[![folio-gopro-vr](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170701018-f1910c9b-dff4-4487-a6ad-156a0eae2373.jpg&output=webp&q=30&w=896&dpr=2)](https://olivier3lanc.github.io/folio-gopro-vr)
+
+List of pages:
+* [Create](https://olivier3lanc.github.io/folio-gopro-vr/create.html)
+* [Browse](https://olivier3lanc.github.io/folio-gopro-vr/browse.html)
+* [Category](https://olivier3lanc.github.io/folio-gopro-vr/category.html)
+* [Log in](https://olivier3lanc.github.io/folio-gopro-vr/log-in.html)
+* [Create account](https://olivier3lanc.github.io/folio-gopro-vr/create-account.html)
+* [FAQ](https://olivier3lanc.github.io/folio-gopro-vr/faq.html)
+* [Upload step 1](https://olivier3lanc.github.io/folio-gopro-vr/upload.html)
+* [Upload step 2](https://olivier3lanc.github.io/folio-gopro-vr/upload-step-2.html)
+* [Upload success](https://olivier3lanc.github.io/folio-gopro-vr/upload-success.html)
+* [Deprecated style guide](https://olivier3lanc.github.io/folio-gopro-vr/style-guide.html)
+* [404](https://olivier3lanc.github.io/folio-gopro-vr/404.html)
+* [Error](https://olivier3lanc.github.io/folio-gopro-vr/error.html)
+
+
 <!--
 **olivier3lanc/olivier3lanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
