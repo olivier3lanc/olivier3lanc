@@ -1,6 +1,27 @@
 # I'm Olivier 3lanc,<br>hybrid UI/UX | front-end developer<br>from France
 
-> I craft responsive web design with UI/UX in mind. Here are my crafts:
+**Tomorow**
+> **Hybrid UI/UX | Front-end developer**<br><sup>@ at your company? [contact me](mailto:olivier3lanc@gmail.com)</sup>
+
+**Now**
+> **Front-end developer** crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween)<br><sup>@ https://bymycar.fr</sup>
+
+**2018**
+> **UX Designer**<br><sup>@ https://gopro.com</sup>
+
+**2015**
+> **Web designer | Content editor**<br><sup>@ https://kolor.com</sup>
+
+**2013**
+> **Web designer**<br><sup>@ https://optique-sergent.com</sup>
+
+**2008**
+> **Sound engineer** in some Belgium theatres<br><sup>@ [Dolby](https://www.dolby.com/)</sup>
+
+**2001**
+> **Diplôme IAD** - Institut des Arts de Diffusion<br>Let's start a sound engineer career until i discover the web!<br><sup>@ https://www.iad-arts.be/formations/son</sup>
+
+
 
 ## Scroll Btween
 <sup>Javascript</sup>
