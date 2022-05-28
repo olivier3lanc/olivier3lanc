@@ -1,27 +1,6 @@
 # I'm Olivier 3lanc,<br>hybrid UI/UX | front-end developer<br>from France
 
-**Tomorow**
-> **Hybrid UI/UX | Front-end developer**<br><sup>@ at your company? [contact me](mailto:olivier3lanc@gmail.com)</sup>
-
-**Now**
-> **Front-end developer** crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween)<br><sup>@ https://bymycar.fr</sup>
-
-**2018**
-> **UX Designer**<br><sup>@ https://gopro.com</sup>
-
-**2015**
-> **Web designer | Content editor**<br><sup>@ https://kolor.com</sup>
-
-**2013**
-> **Web designer**<br><sup>@ https://optique-sergent.com</sup>
-
-**2008**
-> **Sound engineer** in some Belgium theatres<br><sup>@ [Dolby](https://www.dolby.com/)</sup>
-
-**2001**
-> **Diplôme IAD** - Institut des Arts de Diffusion<br>Let's start a sound engineer career until i discover the web!<br><sup>@ https://www.iad-arts.be/formations/son</sup>
-
-
+> Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and developement, getting inspiration from sound, music and photography. Here is my [resume](#resume).
 
 ## Scroll Btween
 <sup>Javascript</sup>
@@ -166,6 +145,39 @@ Portfolio of various graphic design crafted in relation with the web and the pri
 | Movie booklets design 1 | Movie booklets design 2 |
 | --- | --- |
 | [![jaquette-gypaetes](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307.jpg&output=webp&q=30&w=500&dpr=2)](https://github.com/olivier3lanc/folio-graphics#booklets-for-bd-dvd-movie) | [![jaquette-dvd-alexandre-deschaumes](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc.png&output=webp&q=30&w=500&dpr=2)](https://github.com/olivier3lanc/folio-graphics#booklets-for-bd-dvd-movie) |
+
+## Photographies
+<sup>Personal photography artworks</sup>
+
+Personal photo works on Animals, Landscapes and Photoshop.
+
+| Animaux | Paysages | Photoshop |
+| --- | --- | --- |
+| [![Animaux](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_4417.jpg&output=webp&w=270&h=180&fit=cover&dpr=2&q=40)](/animaux#readme) | [![Paysages](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/automne/lac_thuile_automne_mg_6008__mg_6012-5-images_size_3200x1600.webp&output=webp&w=270&h=180&fit=cover&dpr=2&q=40)](/paysages#readme) | [![Photoshop](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/img_8651-wallpaper.jpg&output=webp&w=270&h=180&fit=cover&dpr=2&q=41)](/photoshop#readme) |
+
+
+## Resume
+
+**Tomorow**
+> **Hybrid UI/UX | Front-end developer**<br><sup>@ at your company? [contact me](mailto:olivier3lanc@gmail.com)</sup>
+
+**Now**
+> **Front-end developer** crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween)<br><sup>@ https://bymycar.fr</sup>
+
+**2018**
+> **UX Designer**<br><sup>@ https://gopro.com</sup>
+
+**2015**
+> **Web designer | Content editor**<br><sup>@ https://kolor.com</sup>
+
+**2013**
+> **Web designer**<br><sup>@ https://optique-sergent.com</sup>
+
+**2008**
+> **Sound engineer** in some Belgium theatres<br><sup>@ [Dolby](https://www.dolby.com/)</sup>
+
+**2001**
+> **Diplôme IAD** - Institut des Arts de Diffusion<br>Let's start a sound engineer career until i discover the web!<br><sup>@ https://www.iad-arts.be/formations/son</sup>
 
 <!--
 **olivier3lanc/olivier3lanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
