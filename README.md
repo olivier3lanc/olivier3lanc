@@ -1,6 +1,6 @@
 # I'm Olivier 3lanc,<br>hybrid UI/UX | front-end developer<br>from France
 
-> Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and developement, getting inspiration from sound, music and photography. Here is my [resume](#resume).
+> Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and front-end development, getting inspiration from sound, music, cinema and photography. Here is my [resume](#resume).
 
 ## Scroll Btween
 <sup>Javascript</sup>
