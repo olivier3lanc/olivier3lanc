@@ -153,7 +153,7 @@ Personal photo works on Animals, Landscapes and Photoshop.
 
 | Animaux | Paysages | Photoshop |
 | --- | --- | --- |
-| [![Animaux](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_4417.jpg&output=webp&w=270&h=180&fit=cover&dpr=2&q=40)](https://github.com/olivier3lanc/photographies/tree/master/animaux#readme) | [![Paysages](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/automne/lac_thuile_automne_mg_6008__mg_6012-5-images_size_3200x1600.webp&output=webp&w=270&h=180&fit=cover&dpr=2&q=40)](/paysages#readme) | [![Photoshop](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/img_8651-wallpaper.jpg&output=webp&w=270&h=180&fit=cover&dpr=2&q=41)](/photoshop#readme) |
+| [![Animaux](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_4417.jpg&output=webp&w=270&h=180&fit=cover&dpr=2&q=40)](https://github.com/olivier3lanc/photographies/tree/master/animaux#readme) | [![Paysages](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/automne/lac_thuile_automne_mg_6008__mg_6012-5-images_size_3200x1600.webp&output=webp&w=270&h=180&fit=cover&dpr=2&q=40)](https://github.com/olivier3lanc/photographies/paysages#readme) | [![Photoshop](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/img_8651-wallpaper.jpg&output=webp&w=270&h=180&fit=cover&dpr=2&q=41)](https://github.com/olivier3lanc/photographies/photoshop#readme) |
 
 
 ## Resume
