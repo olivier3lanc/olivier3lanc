@@ -1,6 +1,6 @@
 # I'm Olivier Blanc,<br>hybrid UI/UX | front-end developer<br>from France<details><summary>fr</summary>Je suis Olivier Blanc, développeur front-end hybride UI et UX</details>
 
-> Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and front-end development, getting inspiration from sound, music, cinema and photography. Here is my [resume](#resume).<details><summary>fr</summary>Je conçois des design web responsives avec un esprit UI et UX. Voici [mes créations](#scroll-btween). Ingénieur du son à l'origine, je me suis reconverti dans le web design et le développement front-end, m'inspirant du son, de la musique, du cinéma et de la photographie. Voici mon [parcours](#resume).</details>
+> Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and front-end development, getting inspiration from sound, music, cinema and photography. Here is my [resume](#resume).<details><summary>fr</summary>Je conçois des interfaces web responsive avec une approche UI et UX. Voici [mes réalisations](#scroll-btween). Ingénieur du son à l'origine, je me suis reconverti dans le web design et le développement front-end, m'inspirant du son, de la musique, du cinéma et de la photographie. Voici mon [parcours](#resume).</details>
 
 ## Scroll Btween
 <sup>Javascript</sup>
@@ -159,25 +159,25 @@ Personal photo works on Animals, Landscapes and Photoshop.
 ## Resume
 
 **Tomorow**
-> **Hybrid UI/UX | Front-end developer**<br><sup>@ at your company? [contact me](mailto:olivier3lanc@gmail.com)</sup>
+> **Hybrid UI/UX | Front-end developer**<br><sub>@ at your company? [contact me](mailto:olivier3lanc@gmail.com)</sub>
 
 **Now**
-> **Front-end developer** crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween)<br><sup>@ https://bymycar.fr</sup>
+> **Front-end developer** at BYmyCAR<br>Crafting responsive web design with UI and UX in mind.<br><sub>@ https://bymycar.fr</sub><details><summary>fr</summary>Je crée des interfaces web responsive avec une approche UI et UX.</details>
 
 **2018**
-> **UX Designer**<br><sup>@ https://gopro.com</sup>
+> **UX Designer** at GoPro<br>Discover the world's most versatile action cameras + accessories.<br><sub>@ https://gopro.com</sub><details><summary>fr</summary>Découvrez les caméras d’action et accessoires les plus polyvalents au monde.</details>
 
 **2015**
-> **Web designer | Content editor**<br><sup>@ https://kolor.com</sup>
+> **Web designer | Content editor** at Kolor <br>Kolor develops image-stitching software, virtual tour software and 360-degree video software, and offers a selection of the best equipment for panoramic photography and video on its online store.<br><sub>@ https://kolor.com</sub><details><summary>fr</summary>Kolor développe des logiciels d'assemblage d'images, de visites virtuelles et de vidéos à 360 degrés, et propose une sélection des meilleurs équipements pour la photographie et la vidéo panoramiques sur sa boutique en ligne.</details>
 
 **2013**
-> **Web designer**<br><sup>@ https://optique-sergent.com</sup>
+> **Web designer** at Optique Sergent<br>Le bonheur de bien voir<br><sub>@ https://optique-sergent.com</sub>
 
 **2008**
-> **Sound engineer** in some Belgium theatres<br><sup>@ [Dolby](https://www.dolby.com/)</sup>
+> **Sound engineer** at Dolby Cinema Belgium<br>Adjusting, balancing and equalizing sound in theatres in accordance with SMPTE standards.<br><sub>@ [https://professional.dolby.com/cinema/](https://professional.dolby.com/cinema/)</sub><details><summary>fr</summary>Réglages, équilibres et égalisations le son dans les salles de cinémas conformément aux normes SMPTE.</details>
 
 **2001**
-> **Diplôme IAD** - Institut des Arts de Diffusion<br>Let's start a sound engineer career until i discover the web!<br><sup>@ https://www.iad-arts.be/formations/son</sup>
+> **Diplôme IAD** at Institut des Arts de Diffusion<br>Let's start a sound engineer career until i discover the web!<br><sub>@ https://www.iad-arts.be/formations/son</sub><details><summary>fr</summary>Début d'une carrière d'ingénieur du son jusqu'à ce que je découvre le web !</details>
 
 <!--
 **olivier3lanc/olivier3lanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
