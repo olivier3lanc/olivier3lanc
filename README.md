@@ -1,11 +1,11 @@
-# I'm Olivier 3lanc,<br>hybrid UI/UX | front-end developer<br>from France
+# I'm Olivier Blanc,<br>hybrid UI/UX | front-end developer<br>from France<details><summary>fr</summary>Je suis Olivier Blanc, développeur front-end hybride UI et UX</details>
 
-> Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and front-end development, getting inspiration from sound, music, cinema and photography. Here is my [resume](#resume).
+> Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and front-end development, getting inspiration from sound, music, cinema and photography. Here is my [resume](#resume).<details><summary>fr</summary>Je conçois des design web responsives avec un esprit UI et UX. Voici [mes créations](#scroll-btween). Ingénieur du son à l'origine, je me suis reconverti dans le web design et le développement front-end, m'inspirant du son, de la musique, du cinéma et de la photographie. Voici mon [parcours](#resume).</details>
 
 ## Scroll Btween
 <sup>Javascript</sup>
 
-ScrollBtween uses scroll position of document - or any DOM element - to tween CSS values on any DOM element. 
+Scroll Btween uses scroll position of document - or any DOM element - to tween CSS values on any DOM element. 
 
 [Website](https://olivier3lanc.github.io/Scroll-Btween/) | [Github](https://github.com/olivier3lanc/Scroll-Btween)
 [![Scroll Btween](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170226227-fc076335-b9a7-43f8-8136-7c8544d70711.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/Scroll-Btween/)
