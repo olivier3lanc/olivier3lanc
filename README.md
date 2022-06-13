@@ -158,25 +158,25 @@ Personal photo works on Animals, Landscapes and Photoshop.
 
 ## Resume
 
-**Tomorow**
+### Tomorow
 > **Hybrid UI/UX | Front-end developer**<br><sub>@ at your company? [contact me](mailto:olivier3lanc@gmail.com)</sub>
 
-**Now**
+### Now
 > **Front-end developer** at BYmyCAR<br>Crafting responsive web design with UI and UX in mind.<br><sub>@ https://bymycar.fr</sub><details><summary>fr</summary>Je crée des interfaces web responsive avec une approche UI et UX.</details>
 
-**2018**
+### 2018
 > **UX Designer** at GoPro<br>Discover the world's most versatile action cameras + accessories.<br><sub>@ https://gopro.com</sub><details><summary>fr</summary>Découvrez les caméras d’action et accessoires les plus polyvalents au monde.</details>
 
-**2015**
+### 2015
 > **Web designer | Content editor** at Kolor <br>Kolor develops image-stitching software, virtual tour software and 360-degree video software, and offers a selection of the best equipment for panoramic photography and video on its online store.<br><sub>@ https://kolor.com</sub><details><summary>fr</summary>Kolor développe des logiciels d'assemblage d'images, de visites virtuelles et de vidéos à 360 degrés, et propose une sélection des meilleurs équipements pour la photographie et la vidéo panoramiques sur sa boutique en ligne.</details>
 
-**2013**
+### 2013
 > **Web designer** at Optique Sergent<br>Le bonheur de bien voir<br><sub>@ https://optique-sergent.com</sub>
 
-**2008**
+### 2008
 > **Sound engineer** at Dolby Cinema Belgium<br>Adjusting, balancing and equalizing sound in theatres in accordance with SMPTE standards.<br><sub>@ [https://professional.dolby.com/cinema/](https://professional.dolby.com/cinema/)</sub><details><summary>fr</summary>Réglages, équilibres et égalisations le son dans les salles de cinémas conformément aux normes SMPTE.</details>
 
-**2001**
+### 2001
 > **Diplôme IAD** at Institut des Arts de Diffusion<br>Let's start a sound engineer career until i discover the web!<br><sub>@ https://www.iad-arts.be/formations/son</sub><details><summary>fr</summary>Début d'une carrière d'ingénieur du son jusqu'à ce que je découvre le web !</details>
 
 <!--
