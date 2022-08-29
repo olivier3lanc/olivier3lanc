@@ -2,6 +2,14 @@
 
 > Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and front-end development, getting inspiration from sound, music, cinema and photography. Here is my [resume](#resume).<details><summary>fr</summary>Je conçois des interfaces web responsive avec une approche UI et UX. Voici [mes réalisations](#scroll-btween). Ingénieur du son à l'origine, je me suis reconverti dans le web design et le développement front-end, m'inspirant du son, de la musique, du cinéma et de la photographie. Voici mon [parcours](#resume).</details>
 
+## SEEMAP
+<sup>HTML | CSS | Javascript</sup>
+
+Popular Leaflet plugins and map providers bundled into a single customizable HTML file with its API. SEEMAP - for *Standalone EmbEddable Map* - is a single HTML file bundled of useful and popular Leaflet/OpenStreetMap resources in a easy way to embed.
+
+[Website](https://olivier3lanc.github.io/seemap/) | [Github](https://github.com/olivier3lanc/seemap)
+[![Scroll Frames](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/187200842-bab34b34-a4ad-4358-8876-bd5fd6dea2c3.png&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/seemap/)
+
 ## Scroll Btween
 <sup>Javascript</sup>
 
