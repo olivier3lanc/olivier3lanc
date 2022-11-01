@@ -2,6 +2,13 @@
 
 > Crafting responsive web design with UI and UX in mind. Here are [my crafts](#scroll-btween). Originally sound engineer, i was reconverted to web design and front-end development, getting inspiration from sound, music, cinema and photography. Here is my [resume](#resume).<details><summary>fr</summary>Je conçois des interfaces web responsive avec une approche UI et UX. Voici [mes réalisations](#scroll-btween). Anciennement ingénieur du son, je me suis reconverti dans le web design et le développement front-end, m'inspirant du son, de la musique, du cinéma et de la photographie. Voici mon [parcours](#resume).</details>
 
+<br>
+<a href="https://codepen.io/olivier3lanc">
+  <img src="https://i.postimg.cc/SNGq4VpN/codepen-wordmark-display-inside-black-10x.webp" alt="Codepen" height="24" width="127">
+</a>
+<br>
+<br>
+
 ## SEEMAP
 <sup>HTML | CSS | Javascript</sup>
 
