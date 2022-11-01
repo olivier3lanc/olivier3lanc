@@ -15,7 +15,7 @@
 Popular Leaflet plugins and map providers bundled into a single customizable HTML file with its API. SEEMAP - for *Standalone EmbEddable Map* - is a single HTML file bundled of useful and popular Leaflet/OpenStreetMap resources in a easy way to embed.
 
 [Website](https://olivier3lanc.github.io/seemap/) | [Github](https://github.com/olivier3lanc/seemap)
-[![Scroll Frames](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/187200842-bab34b34-a4ad-4358-8876-bd5fd6dea2c3.png&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/seemap/)
+[![Scroll Frames](https://user-images.githubusercontent.com/13103047/187200842-bab34b34-a4ad-4358-8876-bd5fd6dea2c3.png)](https://olivier3lanc.github.io/seemap/)
 
 ## Scroll Btween
 <sup>Javascript</sup>
@@ -23,7 +23,7 @@ Popular Leaflet plugins and map providers bundled into a single customizable HTM
 Scroll Btween uses scroll position of document - or any DOM element - to tween CSS values on any DOM element. 
 
 [Website](https://olivier3lanc.github.io/Scroll-Btween/) | [Github](https://github.com/olivier3lanc/Scroll-Btween)
-[![Scroll Btween](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170226227-fc076335-b9a7-43f8-8136-7c8544d70711.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/Scroll-Btween/)
+[![Scroll Btween](https://user-images.githubusercontent.com/13103047/170226227-fc076335-b9a7-43f8-8136-7c8544d70711.jpg)](https://olivier3lanc.github.io/Scroll-Btween/)
 
 ## Scroll Frames
 <sup>Javascript</sup>
@@ -31,7 +31,7 @@ Scroll Btween uses scroll position of document - or any DOM element - to tween C
 Animate sequences of still frames on any DOM element in relation with its position into the viewport.
 
 [Website](https://olivier3lanc.github.io/Scroll-Frames/) | [Github](https://github.com/olivier3lanc/Scroll-Frames)
-[![Scroll Frames](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170229989-a67bc0e5-092d-48e9-84f4-43ec531972b1.jpg&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/Scroll-Frames/)
+[![Scroll Frames](https://user-images.githubusercontent.com/13103047/170229989-a67bc0e5-092d-48e9-84f4-43ec531972b1.jpg)](https://olivier3lanc.github.io/Scroll-Frames/)
 
 ## Jekyll LibDoc
 <sup>Jekyll Theme | Liquid | HTML | CSS | Javascript</sup>
@@ -39,7 +39,7 @@ Animate sequences of still frames on any DOM element in relation with its positi
 A Jekyll documentation theme with built-in search and playground.
 
 [Website](https://olivier3lanc.github.io/Jekyll-LibDoc/) | [Github](https://github.com/olivier3lanc/Jekyll-LibDoc)
-[![Jekyll LibDoc](https://images.weserv.nl/?url=https://user-images.githubusercontent.com/13103047/170112297-d7351670-a1a8-4f96-a2a1-2ebf84f62b53.png&output=webp&q=30&w=830&dpr=2)](https://olivier3lanc.github.io/Jekyll-LibDoc/)
+[![Jekyll LibDoc](https://user-images.githubusercontent.com/13103047/170112297-d7351670-a1a8-4f96-a2a1-2ebf84f62b53.png)](https://olivier3lanc.github.io/Jekyll-LibDoc/)
 
 ## La Casa de Papel HTML5 cinematics
 <sup>HTML | CSS | Javascript</sup>
