@@ -9,6 +9,27 @@
 <br>
 <br>
 
+## ITADS
+<sup>CSS | Javascript</sup>
+
+![Exemple d'interface back-office](https://github.com/olivier3lanc/olivier3lanc/assets/13103047/fee33ff5-f596-4e62-968b-21b937a58c64)
+
+
+[IT Automotive Design System](https://github.com/ita-design-system) est un ensemble de composants CSS et Javascript permettant de créer rapidement des interfaces web responsives.
+
+* CSS
+  * **[c-dis.scss](https://github.com/ita-design-system/c-dis.scss)** <br>Composant CSS dédié aux dimensions et comportements liés à la taille des éléments.
+  * **[c-dim.scss](https://github.com/ita-design-system/c-dim.scss)** <br>Composant CSS dédié à la propriété display des éléments. 
+  * **[c-pos.scss](https://github.com/ita-design-system/c-pos.scss)** <br>Composant CSS dédié aux positionnements des éléments. 
+  * **[c-txt.scss](https://github.com/ita-design-system/c-txt.scss)** <br>Composant CSS dédié aux textes.
+  * **[c-skin.scss](https://github.com/ita-design-system/c-skin.scss)** <br>Composant CSS dédié aux aspects et apparences des éléments.
+* Javascript
+  * **[c-toggle.js](https://github.com/ita-design-system/c-toggle.js)** <br>Librairie JS dédiée à la bascule d’état des classes CSS d’un élément.
+  * **[c-tabs.js](https://github.com/ita-design-system/c-tabs.js)** <br>Librairie JS dédiée à la gestion d'onglets et tabulations.
+  * **[c-scrollsyncbar.js](https://github.com/ita-design-system/c-scrollsyncbar.js)** <br>Librairie JS permettant d'afficher/masquer des éléments HTML progressivement en fonction du sens de défilement de la fenêtre.
+  * **[c-scrollspy.js](https://github.com/ita-design-system/c-scrollspy.js)** <br>Librairie JS dédiée à la détection de la position d'un élément DOM dans la fenêtre de visualisation.
+  * **[c-preview.js](https://github.com/ita-design-system/c-preview.js)** <br>Librairie JS dédiée à l'affichage et des fichiers sélectionnés sur un input type="file"
+
 ## SEEMAP
 <sup>HTML | CSS | Javascript</sup>
 
