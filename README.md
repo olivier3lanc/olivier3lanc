@@ -16,7 +16,7 @@ A simple and customizable low-level CSS library generator.
 
 [Website](https://ita-design-system.github.io/bricss/) | [Github](https://github.com/ita-design-system/bricss)
 
-[![BRiCSS](https://github.com/user-attachments/assets/3db13997-af8f-4d18-ad60-bd17661f6d65)](https://ita-design-system.github.io/bricss/)
+[![BRiCSS](https://github.com/user-attachments/assets/6c25cfc3-417c-4332-8eb1-9b9a6ec06fc1)](https://ita-design-system.github.io/bricss/)
 
 ## SEEMAP
 <sup>HTML | CSS | Javascript</sup>
