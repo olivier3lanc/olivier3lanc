@@ -12,11 +12,11 @@
 ## BRiCSS
 <sup>HTML | CSS | Javascript</sup>
 
-![BRiCSS](https://github.com/user-attachments/assets/c583746a-2674-4a0c-9bf0-97124c590a88)
-
 A simple and customizable low-level CSS library generator.
 
-[Website](https://github.com/ita-design-system/bricss) | [Github](https://github.com/ita-design-system/bricss)
+[Website](https://ita-design-system.github.io/bricss/) | [Github](https://github.com/ita-design-system/bricss)
+
+[![BRiCSS](https://github.com/user-attachments/assets/3db13997-af8f-4d18-ad60-bd17661f6d65)](https://ita-design-system.github.io/bricss/)
 
 ## SEEMAP
 <sup>HTML | CSS | Javascript</sup>
