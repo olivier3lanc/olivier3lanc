@@ -1,0 +1,18 @@
+{
+    "lang": "fr",
+    "siteTitle": "0|3 Artworks",
+    "siteDescription": "Travaux créatifs personnels web, photo et vidéo",
+    "author": "0livier 3lanc",
+    "blogTitle": "Blog",
+    "blogAuthor": "Olivier 3lanc",
+    "customLinks": [
+        {
+            "url": "https://github.com/olivier3lanc",
+            "text": "GitHub"
+        },
+        {
+            "url": "mailto:olivier3lanc@gmail.com",
+            "text": "email"
+        }
+    ]
+}
