@@ -2,10 +2,10 @@
 title: Pens
 description: Petites démos disponibles sur CodePen
 layout: libdoc_page.liquid
-permalink: webdesign/pens/index.html
+permalink: frontend-dev-ui-ux/pens/index.html
 eleventyNavigation:
     key: Pens
-    parent: Webdesign
+    parent: Développement front-end et UI / UX
     order: 300
 date: git Last Modified
 ---

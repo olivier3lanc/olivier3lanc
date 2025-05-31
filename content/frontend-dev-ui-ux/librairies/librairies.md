@@ -1,11 +1,11 @@
 ---
 title: Librairies
-description: Réalisations de pages web basées sur un thème
+description: Réalisations de librairies Javascript et CSS
 layout: libdoc_page.liquid
-permalink: webdesign/librairies/index.html
+permalink: frontend-dev-ui-ux/librairies/index.html
 eleventyNavigation:
     key: Librairies
-    parent: Webdesign
+    parent: Développement front-end et UI / UX
     order: 200
 date: git Last Modified
 ---
@@ -34,3 +34,13 @@ Scroll Btween was crafted to simply tween any CSS values on any DOM element in r
 Animate sequences of still frames on any DOM element in relation with its position into the viewport.
 
 Scroll Frames is a javascript library intended to be used for cinematic usage on any web page. Scroll Frames binds scroll on still images sequences to craft cinematics on a web page. It applies CSS background image on any HTML tag from a sequence of images according to the position of this HTML tag.
+
+## c-preview
+
+## c-toggle
+
+## c-tabs
+
+## c-scrollsyncbar
+
+## c-scrollspy

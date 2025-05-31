@@ -2,10 +2,10 @@
 title: Démos
 description: Réalisations de pages web basées sur un thème
 layout: libdoc_page.liquid
-permalink: webdesign/demos/index.html
+permalink: frontend-dev-ui-ux/demos/index.html
 eleventyNavigation:
     key: Démos
-    parent: Webdesign
+    parent: Développement front-end et UI / UX
     order: 100
 date: git Last Modified
 ---
