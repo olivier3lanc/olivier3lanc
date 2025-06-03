@@ -1,12 +1,8 @@
 ---
-title: Intégrations
-description: Réalisations de pages web basées sur un thème
+title: Portfolio
+description: Réalisations web dans le cadre de mon travail
 layout: libdoc_page.liquid
-permalink: frontend-dev-ui-ux/integrations/index.html
-eleventyNavigation:
-    key: Intégrations
-    parent: Développement front-end et UI / UX
-    order: 50
+permalink: portfolio/index.html
 date: git Last Modified
 ---
 ## Skoda rent
