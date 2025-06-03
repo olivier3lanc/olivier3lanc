@@ -10,6 +10,14 @@ eleventyNavigation:
 date: git Last Modified
 ---
 <figure class="long-shadow">
+    <img src="/sources/low-poly/flamingo-phoenicopterus roseus-3.png"
+        alt="Flamant rose">
+    <figcaption>
+        Flamant rose - <em>Phoenicopterus roseus</em>
+    </figcaption>
+</figure>
+
+<figure class="long-shadow">
     <img src="/sources/low-poly/flamingo-phoenicopterus roseus-2.png"
         alt="Flamant rose">
     <figcaption>
