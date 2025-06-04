@@ -14,5 +14,6 @@
             "url": "mailto:olivier3lanc@gmail.com",
             "text": "email"
         }
-    ]
+    ],
+    "htmlBasePathPrefix": "/olivier3lanc/"
 }

@@ -18,14 +18,6 @@ date: git Last Modified
 </figure>
 
 <figure class="long-shadow">
-    <img src="/sources/photoshop/inceptions/inceptions-29.jpg"
-        alt="Inception _29">
-    <figcaption>
-        Inception _29
-    </figcaption>
-</figure>
-
-<figure class="long-shadow">
     <img src="/sources/photoshop/inceptions/inceptions-03.jpg"
         alt="Inception _3">
     <figcaption>
